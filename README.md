@@ -1,16 +1,31 @@
-### Hi there 👋
+ 
+<p align="center">  
+  <a href="https://github.com/Guru322">
+    <img alt="Guru" height="300" src="[https://avatars.githubusercontent.com/u/106463398?v=4](https://telegra.ph/file/26df3f7a5d3ecd7b8895d.jpg)">
+    <h1 align="center">Hy 👋 Yosh Here</h1>
+  </a>
+</p>
+<p align="center">
+    <b>ᴠɪsɪᴛᴏʀs</b><br>
+ -->    <img align="middle" src="https://profile-counter.glitch.me/YoshCasaster/count.svg" />
+</p>
 
-<!--
-**YoshCasaster/YoshCasaster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Where to find me
 
-Here are some ideas to get you started:
+[![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/YoshCasaster)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/YosepWD)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## My github stats 
+<p align="center">
+    <img
+        width="52%"
+        src="https://github-readme-stats.vercel.app/api?username=YoshCasaster&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&custom_title=GitHub+Stats"
+    />
+    <img
+        width="49%"
+        src="https://github-readme-streak-stats.herokuapp.com?user=Guru322&theme=tokyonight"
+    />
+</p>
+
+<h3>
