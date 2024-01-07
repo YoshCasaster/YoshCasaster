@@ -1,7 +1,7 @@
  
 <p align="center">  
   <a href="https://github.com/YoshCasaster">
-    <img alt="YoshCasaster" height="300" src="[https://avatars.githubusercontent.com/u/106463398?v=4](https://github.com/YoshCasaster/YoshCasaster/blob/main/yoshc.jpg)">
+    <img alt="YoshCasaster" height="300" src="[https://github.com/YoshCasaster/YoshCasaster/blob/main/yoshc.jpg](https://yoshcasaster.github.io/WebLVY/)">
     <h1 align="center">Hy 👋 Yosh Here</h1>
   </a>
 </p>
