@@ -1,10 +1,5 @@
  
-<p align="center">  
-  <a href="https://github.com/YoshCasaster">
-    <img alt="YoshCasaster" height="300" src="[https://github.com/YoshCasaster/YoshCasaster/blob/main/yoshc.jpg](https://yoshcasaster.github.io/WebLVY/)">
-    <h1 align="center">Hy 👋 Yosh Here</h1>
-  </a>
-</p>
+[![Header](https://github.com/YoshCasaster/YoshCasaster/blob/main/yoshc.jpg "Header")](https://martinheinz.dev/)
 <p align="center">
     <b>ᴠɪsɪᴛᴏʀs</b><br>
  -->    <img align="middle" src="https://profile-counter.glitch.me/YoshCasaster/count.svg" />
