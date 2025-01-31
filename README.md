@@ -25,14 +25,7 @@
 ![](https://img.shields.io/badge/Tools-Red_Hat_OpenShift-informational?style=flat&logo=red-hat-open-shift&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)
 
-## &#x270d; Blog & Writing
 
-A sample of my recent articles:
-
-<!-- BLOG-POST-LIST:START -->
-- [Website Store BOT WHATSAPP](https://yoshcasaster.github.io/WebLVY/)
-- [Website Game LostSaga GBLSO](https://yoshcasaster.github.io/gblso.github.io/)
-<!-- BLOG-POST-LIST:END -->
 
 ## My github stats 
 <p align="center">
