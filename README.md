@@ -2,7 +2,7 @@
 [![Header](https://github.com/YoshCasaster/YoshCasaster/blob/main/yoshc.jpg "Header")](https://google.com/)
 <p align="center">
     <b>ᴠɪsɪᴛᴏʀs</b><br>
- -->    <img align="middle" src="https://profile-counter.glitch.me/YoshCasaster/count.svg" />
+ -->    <img align="middle" src="https://visitor-badge.laobi.icu/badge?page_id=YoshCasaster.visitor-badge" />
 </p>
 
 ## Where to find me
