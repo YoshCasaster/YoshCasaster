@@ -1,9 +1,6 @@
  
 [![Header](https://github.com/YoshCasaster/YoshCasaster/blob/main/yoshc.jpg "Header")](https://google.com/)
-<p align="center">
-    <b>ᴠɪsɪᴛᴏʀs</b><br>
- -->    <img align="middle" src="https://visitor-badge.laobi.icu/badge?page_id=YoshCasaster.visitor-badge" />
-</p>
+
 
 ## Where to find me
 
@@ -23,10 +20,6 @@
     <img alt="MongoDB" height ="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
     <img alt="Redis" height ="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg">
     <img alt="Oracle" height ="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg">
-<!--
-</div>
-
-
 
 ## My github stats 
 <p align="center">
