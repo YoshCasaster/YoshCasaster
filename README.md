@@ -20,13 +20,4 @@
     <img alt="MongoDB" height ="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
     <img alt="Redis" height ="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg">
     <img alt="Oracle" height ="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg">
-
-## My github stats 
-<p align="center">
-    <img
-        width="52%"
-        src="https://github-readme-stats.vercel.app/api?username=YoshCasaster&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&custom_title=GitHub+Stats"
-    />
-</p>
-
 <h3>
