@@ -12,12 +12,15 @@
 <div align="center">
     <a href="https://github.com/0xStryK3R?tab=repositories&language=python" target="_blank"><img alt="Python" height ="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"></a>
     <a href="https://github.com/0xStryK3R?tab=repositories&language=java" target="_blank"><img alt="Java" height ="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"></a>
-    <img alt="Django" height ="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg">
-    <img alt="Flask" height ="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg">
-    <img alt="Spring" height ="36px" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg'>
-    <img alt="PostgreSQL" height ="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
-    <img alt="MySQL" height ="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-    <img alt="MongoDB" height ="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
-    <img alt="Redis" height ="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg">
-    <img alt="Oracle" height ="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg">
+<img alt="Django" height ="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg">
+<img alt="Flask" height ="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg">
+<img alt="Spring" height ="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
+<img alt="PostgreSQL" height ="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
+<img alt="MySQL" height ="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+<img alt="MongoDB" height ="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
+<img alt="Redis" height ="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg">
+<img alt="Oracle" height ="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg">
+<img alt="Laravel" height ="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg">
+<img alt="PHP" height ="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
+
 <h3>
