@@ -1,6 +1,23 @@
  
 [![Header](https://github.com/YoshCasaster/YoshCasaster/blob/main/yoshc.jpg "Header")](https://google.com/)
 
+---
+
+<h2 align="center">✨ Welcome to my GitHub Kingdom! 🏰</h2>
+
+<img align='left' src='https://raw.githubusercontent.com/DraCaster/DraCaster/master/sprites/Link_Sprite.gif' width='10%'>  
+<img align='right' src='https://raw.githubusercontent.com/DraCaster/DraCaster/master/sprites/Zelda_Sprite.gif' width='10%'>  
+
+<p align="center">🌟 Unlocking the secrets of the code, one pull request at a time 🗝️</p>
+  
+ <div align="center">
+ 
+![](https://komarev.com/ghpvc/?username=YoshCasaster&color=blueviolet)
+
+</div>
+<br/><br/>
+
+---
 
 ## Where to find me
 
