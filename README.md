@@ -39,5 +39,3 @@
 <img alt="Oracle" height ="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg">
 <img alt="Laravel" height ="36px" src="https://raw.githubusercontent.com/devicons/devicon/refs/tags/v2.17.0/icons/laravel/laravel-original.svg">
 <img alt="PHP" height ="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
-
-<h3>
