@@ -59,6 +59,7 @@
 <img src="https://skillicons.dev/icons?i=git" width="50"/>
 <img src="https://skillicons.dev/icons?i=github" width="50"/>
 <img src="https://skillicons.dev/icons?i=nginx" width="50"/>
+
 </td>
 </tr>
 </table>
