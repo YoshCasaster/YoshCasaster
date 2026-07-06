@@ -33,18 +33,6 @@
 <img src="https://skillicons.dev/icons?i=js" width="50"/>
 <img src="https://skillicons.dev/icons?i=ts" width="50"/>
 
-<br><br>
-
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-
-<br>
-
-<img src="https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/Erlang-A90533?style=for-the-badge&logo=erlang&logoColor=white"/>
-
 </td>
 
 <td width="34%" align="center">
