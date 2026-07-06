@@ -1,6 +1,6 @@
 [![Header](https://github.com/YoshCasaster/YoshCasaster/blob/main/header.png)](https://github.com/YoshCasaster)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:050816,50:111827,100:FACC15&section=header"/>
+<br>
 
 <div align="center">
 
@@ -8,7 +8,7 @@
 
 ### ⚔ Cyber Crown Developer Profile
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=FACC15&center=true&vCenter=true&width=800&lines=IT+Support+Engineer;Full+Stack+Developer;Backend+Developer;Game+Developer;Cyber+RPG+Code+Master"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=FACC15&center=true&vCenter=true&width=850&lines=IT+Support+Engineer;Full+Stack+Developer;Backend+Developer;Game+Developer;Always+Building+Something+Awesome"/>
 
 <br>
 
@@ -18,35 +18,119 @@
 
 ---
 
-<br>
-
 # ⚔ CYBER CROWN ARENA
 
-<table align="center">
+<table>
 <tr>
-<td width="30%" align="center">
+<td width="33%" align="center">
 
-### 🧬 Languages
+## 💻 Programming
 
-<img src="https://skillicons.dev/icons?i=php" width="48"/>
-<img src="https://skillicons.dev/icons?i=python" width="48"/>
-<img src="https://skillicons.dev/icons?i=java" width="48"/>
-<img src="https://skillicons.dev/icons?i=cs" width="48"/>
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=cpp" width="48"/>
-<img src="https://skillicons.dev/icons?i=erlang" width="48"/>
-<img src="https://skillicons.dev/icons?i=js" width="48"/>
-<img src="https://skillicons.dev/icons?i=ts" width="48"/>
+<img src="https://skillicons.dev/icons?i=php" width="50"/>
+<img src="https://skillicons.dev/icons?i=python" width="50"/>
+<img src="https://skillicons.dev/icons?i=java" width="50"/>
 
 <br><br>
 
-```css
-.languages {
-  main: PHP;
-  backend: Python, Java, C#;
-  system: C++, Erlang;
-  web: JavaScript, TypeScript;
-  power: 99%;
-}
+<img src="https://skillicons.dev/icons?i=cs" width="50"/>
+<img src="https://skillicons.dev/icons?i=cpp" width="50"/>
+<img src="https://skillicons.dev/icons?i=erlang" width="50"/>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=js" width="50"/>
+<img src="https://skillicons.dev/icons?i=ts" width="50"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Erlang-A90533?style=for-the-badge&logo=erlang&logoColor=white"/>
+
+</td>
+
+<td width="34%" align="center">
+
+## 👑 YoshCasaster
+
+<img src="https://raw.githubusercontent.com/YoshCasaster/YoshCasaster/main/anime-crown.png" width="320"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/LEVEL-99-FACC15?style=for-the-badge&logo=codeforces&logoColor=black"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/CLASS-FULLSTACK%20DEVELOPER-111827?style=for-the-badge&logo=github&logoColor=FACC15"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/STATUS-ONLINE-22C55E?style=for-the-badge&logo=vercel&logoColor=white"/>
+
+</td>
+
+<td width="33%" align="center">
+
+## 🛡 Database & Tools
+
+<img src="https://skillicons.dev/icons?i=mysql" width="50"/>
+<img src="https://skillicons.dev/icons?i=postgresql" width="50"/>
+<img src="https://skillicons.dev/icons?i=mongodb" width="50"/>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=redis" width="50"/>
+<img src="https://skillicons.dev/icons?i=docker" width="50"/>
+<img src="https://skillicons.dev/icons?i=linux" width="50"/>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=git" width="50"/>
+<img src="https://skillicons.dev/icons?i=github" width="50"/>
+<img src="https://skillicons.dev/icons?i=nginx" width="50"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🧑‍💻 CHARACTER DATABASE
+
+<table>
+<tr>
+<td width="33%" align="left">
+
+## 👤 Introduction
+
+```ts
+const YoshCasaster = {
+  name: "YoshCasaster",
+  role: "IT Support Engineer",
+  class: "Full Stack Developer",
+  region: "Indonesia",
+  focus: [
+    "Web Application",
+    "Backend System",
+    "Game Development",
+    "Automation Tools",
+    "UI / UX Design"
+  ],
+  motto: "Build, Learn, Improve"
+};
