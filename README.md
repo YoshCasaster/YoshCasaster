@@ -1,6 +1,4 @@
 [![Header](https://github.com/YoshCasaster/YoshCasaster/blob/main/header.png)](https://github.com/YoshCasaster)
-
----
 <table>
 <tr>
 <td width="33%" align="center">
