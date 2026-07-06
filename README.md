@@ -4,13 +4,8 @@
 
 <div align="center">
 
-# 👑 YOSHCASASTER
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=FACC15&center=true&vCenter=true&width=850&lines=IT+Support+Engineer;Full+Stack+Developer;Backend+Developer;Game+Developer;Always+Building+Something+Awesome"/>
 
 <br>
-
-<img src="https://komarev.com/ghpvc/?username=YoshCasaster&style=for-the-badge&color=yellow"/>
 
 </div>
 
