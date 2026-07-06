@@ -1,4 +1,4 @@
-<table border="0" cellpadding="0" cellspacing="0" align="center" style="border-collapse: collapse; border: none; margin: 0 auto;">
+<table frame="void" rules="none" border="0" cellpadding="0" cellspacing="0" align="center" style="border-collapse: collapse; border: none; margin: 0 auto;">
 <tr style="border: none;">
 <td width="33%" align="center" valign="middle" style="border: none;">
 <img src="https://skillicons.dev/icons?i=php" width="50"/>
