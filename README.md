@@ -1,18 +1,10 @@
-[![Header](https://github.com/YoshCasaster/YoshCasaster/blob/main/header.png)](https://github.com/YoshCasaster)
+<table align="center" border="0" cellspacing="0" cellpadding="0">
+<tr style="border: none;">
 
-<br>
+<td width="33%" align="center" style="border: none;">
 
-<div align="center">
+## 💻 Programming
 
-
-<br>
-
-</div>
-
----
-<table>
-<tr>
-<td width="33%" align="center">
 <img src="https://skillicons.dev/icons?i=php" width="50"/>
 <img src="https://skillicons.dev/icons?i=python" width="50"/>
 <img src="https://skillicons.dev/icons?i=java" width="50"/>
@@ -30,14 +22,25 @@
 
 </td>
 
-<td width="34%" align="center">
+<td width="34%" align="center" style="border: none;">
 
-<img src="https://raw.githubusercontent.com/YoshCasaster/YoshCasaster/main/mid.png" width="320"/>
+## 👑 YoshCasaster
 
+<img src="https://raw.githubusercontent.com/YoshCasaster/YoshCasaster/main/anime-crown.png" width="320"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/LEVEL-99-FACC15?style=for-the-badge&logo=codeforces&logoColor=black"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/CLASS-FULLSTACK%20DEVELOPER-111827?style=for-the-badge&logo=github&logoColor=FACC15"/>
 
 </td>
 
-<td width="33%" align="center">
+<td width="33%" align="center" style="border: none;">
+
+## 🛡 Database & Tools
 
 <img src="https://skillicons.dev/icons?i=mysql" width="50"/>
 <img src="https://skillicons.dev/icons?i=postgresql" width="50"/>
@@ -56,31 +59,6 @@
 <img src="https://skillicons.dev/icons?i=nginx" width="50"/>
 
 </td>
+
 </tr>
 </table>
-
----
-
-# 🧑‍💻 CHARACTER DATABASE
-
-<table>
-<tr>
-<td width="33%" align="left">
-
-## 👤 Introduction
-
-```ts
-const YoshCasaster = {
-  name: "YoshCasaster",
-  role: "IT Support Engineer",
-  class: "Full Stack Developer",
-  region: "Indonesia",
-  focus: [
-    "Web Application",
-    "Backend System",
-    "Game Development",
-    "Automation Tools",
-    "UI / UX Design"
-  ],
-  motto: "Build, Learn, Improve"
-};
