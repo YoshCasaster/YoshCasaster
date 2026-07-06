@@ -1,9 +1,5 @@
 [![Header](https://github.com/YoshCasaster/YoshCasaster/blob/main/header.png)](https://github.com/YoshCasaster)
 
-<div align="center">
-
-</div>
-
 ---
 <table>
 <tr>
