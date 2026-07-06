@@ -6,13 +6,13 @@
 <img src="https://skillicons.dev/icons?i=python" width="50"/>
 <img src="https://skillicons.dev/icons?i=java" width="50"/>
 
-<br><br>
+<br>
 
 <img src="https://skillicons.dev/icons?i=cs" width="50"/>
 <img src="https://skillicons.dev/icons?i=cpp" width="50"/>
 <img src="https://skillicons.dev/icons?i=erlang" width="50"/>
 
-<br><br>
+<br>
 
 <img src="https://skillicons.dev/icons?i=js" width="50"/>
 <img src="https://skillicons.dev/icons?i=ts" width="50"/>
@@ -32,13 +32,13 @@
 <img src="https://skillicons.dev/icons?i=postgresql" width="50"/>
 <img src="https://skillicons.dev/icons?i=mongodb" width="50"/>
 
-<br><br>
+<br>
 
 <img src="https://skillicons.dev/icons?i=redis" width="50"/>
 <img src="https://skillicons.dev/icons?i=docker" width="50"/>
 <img src="https://skillicons.dev/icons?i=linux" width="50"/>
 
-<br><br>
+<br>
 
 <img src="https://skillicons.dev/icons?i=git" width="50"/>
 <img src="https://skillicons.dev/icons?i=github" width="50"/>
