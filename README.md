@@ -49,21 +49,8 @@
 
 <td width="34%" align="center">
 
-## 👑 YoshCasaster
-
 <img src="https://raw.githubusercontent.com/YoshCasaster/YoshCasaster/main/mid.png" width="320"/>
 
-<br><br>
-
-<img src="https://img.shields.io/badge/LEVEL-99-FACC15?style=for-the-badge&logo=codeforces&logoColor=black"/>
-
-<br>
-
-<img src="https://img.shields.io/badge/CLASS-FULLSTACK%20DEVELOPER-111827?style=for-the-badge&logo=github&logoColor=FACC15"/>
-
-<br>
-
-<img src="https://img.shields.io/badge/STATUS-ONLINE-22C55E?style=for-the-badge&logo=vercel&logoColor=white"/>
 
 </td>
 
