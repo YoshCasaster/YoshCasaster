@@ -15,15 +15,9 @@
 </div>
 
 ---
-
-# ⚔ CYBER CROWN ARENA
-
 <table>
 <tr>
 <td width="33%" align="center">
-
-## 💻 Programming
-
 <img src="https://skillicons.dev/icons?i=php" width="50"/>
 <img src="https://skillicons.dev/icons?i=python" width="50"/>
 <img src="https://skillicons.dev/icons?i=java" width="50"/>
@@ -74,8 +68,6 @@
 </td>
 
 <td width="33%" align="center">
-
-## 🛡 Database & Tools
 
 <img src="https://skillicons.dev/icons?i=mysql" width="50"/>
 <img src="https://skillicons.dev/icons?i=postgresql" width="50"/>
