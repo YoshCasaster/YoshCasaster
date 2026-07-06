@@ -1,3 +1,5 @@
+[![Header](https://github.com/YoshCasaster/YoshCasaster/blob/main/header.png)](https://github.com/YoshCasaster)
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=php" width="48"/>
   <img src="https://skillicons.dev/icons?i=python" width="48"/>
@@ -29,3 +31,28 @@
   <img src="https://skillicons.dev/icons?i=github" width="48"/>
   <img src="https://skillicons.dev/icons?i=nginx" width="48"/>
 </p>
+# 🧑‍💻 CHARACTER DATABASE
+
+<table>
+<tr>
+<td width="33%" align="left">
+
+## 👤 Introduction
+
+```ts
+const YoshCasaster = {
+  name: "YoshCasaster",
+  role: "IT Support Engineer",
+  class: "Full Stack Developer",
+  region: "Indonesia",
+  focus: [
+    "Web Application",
+    "Backend System",
+    "Game Development",
+    "Automation Tools",
+    "UI / UX Design"
+  ],
+  motto: "Build, Learn, Improve"
+};
+
+
