@@ -6,8 +6,6 @@
 
 # 👑 YOSHCASASTER
 
-### ⚔ Cyber Crown Developer Profile
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=FACC15&center=true&vCenter=true&width=850&lines=IT+Support+Engineer;Full+Stack+Developer;Backend+Developer;Game+Developer;Always+Building+Something+Awesome"/>
 
 <br>
@@ -59,7 +57,7 @@
 
 ## 👑 YoshCasaster
 
-<img src="https://raw.githubusercontent.com/YoshCasaster/YoshCasaster/main/anime-crown.png" width="320"/>
+<img src="https://raw.githubusercontent.com/YoshCasaster/YoshCasaster/main/mid.png" width="320"/>
 
 <br><br>
 
