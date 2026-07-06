@@ -59,17 +59,6 @@
 <img src="https://skillicons.dev/icons?i=git" width="50"/>
 <img src="https://skillicons.dev/icons?i=github" width="50"/>
 <img src="https://skillicons.dev/icons?i=nginx" width="50"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-
-<br>
-
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-
 </td>
 </tr>
 </table>
