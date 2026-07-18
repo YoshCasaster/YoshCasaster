@@ -42,30 +42,31 @@
   <img src="https://raw.githubusercontent.com/YoshCasaster/YoshCasaster/main/h-left.png" width="250" alt="Header Left"/>
 </p>
 
+
 <div align="center">
 
-<table width="80%">
+<table width="95%">
   <tr>
     <td width="65%" valign="top">
       <p>🐦 <sub><b>Side Project</b></sub></p>
       <h2>YoshCasaster</h2>
       <p>This is Yosh Caster's side project page. 🐦</p>
     </td>
-    <td width="35%" align="right">
+    <td width="35%" align="right" rowspan="1">
       <img src="https://via.placeholder.com/180x180?text=Logo" width="160"/>
     </td>
   </tr>
-</table>
-
-<hr width="80%"/>
-
-<table width="80%">
+  <tr>
+    <td colspan="2"><hr/></td>
+  </tr>
   <tr>
     <td width="60"><img src="https://via.placeholder.com/60x60?text=IMG" width="55" style="border-radius:10px"/></td>
     <td align="left">
       <b>SataruZ</b><br/>
       <sub>Idle MMORPG (APK)</sub>
     </td>
+  </tr>
+  <tr>
     <td width="60"><img src="https://via.placeholder.com/60x60?text=IMG" width="55" style="border-radius:10px"/></td>
     <td align="left">
       <b>SataruZ</b><br/>
@@ -78,6 +79,8 @@
       <b>NinjaSaga</b><br/>
       <sub>Private Server</sub>
     </td>
+  </tr>
+  <tr>
     <td width="60"><img src="https://via.placeholder.com/60x60?text=IMG" width="55" style="border-radius:10px"/></td>
     <td align="left">
       <b>OSINTrix</b><br/>
