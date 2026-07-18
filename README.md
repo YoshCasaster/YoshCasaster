@@ -42,7 +42,7 @@
     <td colspan="2" valign="top">
       <p>🩸 <sub><b>Side Project</b></sub></p>
       <h2>YoshCasaster</h2>
-      [![Typing SVG](https://readme-typing-svg.demolab.com?font=&pause=1000&color=F70000&width=435&lines=This+is+Yosh+Caster's+side+project+;page.%F0%9F%A9%B8)](https://git.io/typing-svg)
+      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&pause=1000&color=F70000&width=435&lines=This+is+Yosh+Caster's+side+project+;page.%F0%9F%A9%B8" alt="Typing SVG" /></a>
       <p>This is Yosh Caster's side project page.🩸</p>
     </td>
     <td colspan="2" align="right" valign="middle">
