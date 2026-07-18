@@ -42,7 +42,9 @@
   <img src="https://raw.githubusercontent.com/YoshCasaster/YoshCasaster/main/h-left.png" width="250" alt="Header Left"/>
 </p>
 
-<table width="100%">
+<div align="center">
+
+<table width="80%">
   <tr>
     <td width="65%" valign="top">
       <p>🐦 <sub><b>Side Project</b></sub></p>
@@ -55,31 +57,33 @@
   </tr>
 </table>
 
-<hr/>
+<hr width="80%"/>
 
-<table width="100%">
+<table width="80%">
   <tr>
     <td width="60"><img src="https://via.placeholder.com/60x60?text=IMG" width="55" style="border-radius:10px"/></td>
-    <td>
+    <td align="left">
       <b>SataruZ</b><br/>
       <sub>Idle MMORPG (APK)</sub>
     </td>
     <td width="60"><img src="https://via.placeholder.com/60x60?text=IMG" width="55" style="border-radius:10px"/></td>
-    <td>
+    <td align="left">
       <b>SataruZ</b><br/>
       <sub>MMORPG (BOT WA)</sub>
     </td>
   </tr>
   <tr>
     <td width="60"><img src="https://via.placeholder.com/60x60?text=IMG" width="55" style="border-radius:10px"/></td>
-    <td>
+    <td align="left">
       <b>NinjaSaga</b><br/>
       <sub>Private Server</sub>
     </td>
     <td width="60"><img src="https://via.placeholder.com/60x60?text=IMG" width="55" style="border-radius:10px"/></td>
-    <td>
+    <td align="left">
       <b>OSINTrix</b><br/>
       <sub>Osint (BOT TELE)</sub>
     </td>
   </tr>
 </table>
+
+</div>
