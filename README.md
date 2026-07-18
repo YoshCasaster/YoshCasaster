@@ -57,9 +57,6 @@
     </td>
   </tr>
   <tr>
-    <td colspan="4"><hr/></td>
-  </tr>
-  <tr>
     <td width="15%"><img src="https://github.com/YoshCasaster/YoshCasaster/blob/main/logo-apk-sataruz.png" width="55" style="border-radius:10px"/></td>
     <td width="35%" align="left">
       <b>SataruZ</b><br/>
