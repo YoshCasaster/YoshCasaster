@@ -42,8 +42,8 @@
     <td colspan="2" valign="top">
       <p>🩸 <sub><b>Side Project</b></sub></p>
       <h2>YoshCasaster</h2>
-      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&width=435&lines=This+is+Yosh+Caster's+side+project" alt="Typing SVG" /></a>
-      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&pause=1000&color=F70000&width=435&lines=page.%F0%9F%A9%B8" alt="Typing SVG" /></a>
+      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&width=435&lines=Hi+I'm+Yosh" alt="Typing SVG" /></a>
+      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&width=435&lines=Maybe+I'm+Yosh" alt="Typing SVG" /></a>
     </td>
     <td colspan="2" align="right" valign="middle">
       <img src="https://github.com/YoshCasaster/YoshCasaster/blob/main/Yosh-css.png" width="160"/>
