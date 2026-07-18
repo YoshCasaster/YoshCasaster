@@ -47,19 +47,13 @@
 
 <table width="100%">
   <tr>
-    <td colspan="4" valign="top">
-      <table width="100%">
-        <tr>
-          <td width="65%" valign="top">
-            <p>🐦 <sub><b>Side Project</b></sub></p>
-            <h2>YoshCasaster</h2>
-            <p>This is Yosh Caster's side project page. 🐦</p>
-          </td>
-          <td width="35%" align="right">
-            <img src="https://via.placeholder.com/180x180?text=Logo" width="160"/>
-          </td>
-        </tr>
-      </table>
+    <td colspan="2" valign="top">
+      <p>🐦 <sub><b>Side Project</b></sub></p>
+      <h2>YoshCasaster</h2>
+      <p>This is Yosh Caster's side project page. 🐦</p>
+    </td>
+    <td colspan="2" align="right" valign="middle">
+      <img src="https://via.placeholder.com/180x180?text=Logo" width="160"/>
     </td>
   </tr>
   <tr>
