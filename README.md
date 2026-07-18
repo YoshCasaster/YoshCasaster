@@ -43,7 +43,6 @@
       <p>🩸 <sub><b>Side Project</b></sub></p>
       <h2>YoshCasaster</h2>
       <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&width=200&lines=Maybe+I'm+Yosh" alt="Typing SVG" /></a>
-      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&width=435&lines=Maybe+I'm+Yosh" alt="Typing SVG" /></a>
     </td>
     <td colspan="2" align="right" valign="middle">
       <img src="https://github.com/YoshCasaster/YoshCasaster/blob/main/Yosh-css.png" width="160"/>
