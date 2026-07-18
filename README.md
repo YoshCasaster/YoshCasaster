@@ -42,6 +42,7 @@
     <td colspan="2" valign="top">
       <p>🩸 <sub><b>Side Project</b></sub></p>
       <h2>YoshCasaster</h2>
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=1000&color=8B0000&center=true&vCenter=true&width=500&height=320&lines=YoshCasaster+%3D+%7B;++name%3A+%22YoshCasaster%22%2C;++role%3A+%22IT+Support+Engineer%22%2C;++class%3A+%22Full+Stack+Developer%22%2C;++region%3A+%22Indonesia%22%2C;++focus%3A+%5B%22Web+Application%22%2C+%22Backend+System%22%2C+%22Game+Development%22%2C+%22Automation+Tools%22%2C+%22UI+%2F+UX+Design%22%5D%2C;++motto%3A+%22Build%2C+Learn%2C+Improve%22;%7D" alt="Intro Text" />
       <p>This is Yosh Caster's side project page.🩸</p>
     </td>
     <td colspan="2" align="right" valign="middle">
