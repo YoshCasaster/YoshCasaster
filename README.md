@@ -48,9 +48,9 @@
 <table width="100%">
   <tr>
     <td colspan="2" valign="top">
-      <p>🐦 <sub><b>Side Project</b></sub></p>
+      <p>🩸 <sub><b>Side Project</b></sub></p>
       <h2>YoshCasaster</h2>
-      <p>This is Yosh Caster's side project page. 🐦</p>
+      <p>This is Yosh Caster's side project page.🩸</p>
     </td>
     <td colspan="2" align="right" valign="middle">
       <img src="https://github.com/YoshCasaster/YoshCasaster/blob/main/Yosh-css.png" width="160"/>
