@@ -45,44 +45,46 @@
 
 <div align="center">
 
-<table width="95%">
+<table width="100%">
   <tr>
-    <td width="65%" valign="top">
-      <p>🐦 <sub><b>Side Project</b></sub></p>
-      <h2>YoshCasaster</h2>
-      <p>This is Yosh Caster's side project page. 🐦</p>
-    </td>
-    <td width="35%" align="right" rowspan="1">
-      <img src="https://via.placeholder.com/180x180?text=Logo" width="160"/>
+    <td colspan="4" valign="top">
+      <table width="100%">
+        <tr>
+          <td width="65%" valign="top">
+            <p>🐦 <sub><b>Side Project</b></sub></p>
+            <h2>YoshCasaster</h2>
+            <p>This is Yosh Caster's side project page. 🐦</p>
+          </td>
+          <td width="35%" align="right">
+            <img src="https://via.placeholder.com/180x180?text=Logo" width="160"/>
+          </td>
+        </tr>
+      </table>
     </td>
   </tr>
   <tr>
-    <td colspan="2"><hr/></td>
+    <td colspan="4"><hr/></td>
   </tr>
   <tr>
-    <td width="60"><img src="https://via.placeholder.com/60x60?text=IMG" width="55" style="border-radius:10px"/></td>
-    <td align="left">
+    <td width="15%"><img src="https://via.placeholder.com/60x60?text=IMG" width="55" style="border-radius:10px"/></td>
+    <td width="35%" align="left">
       <b>SataruZ</b><br/>
       <sub>Idle MMORPG (APK)</sub>
     </td>
-  </tr>
-  <tr>
-    <td width="60"><img src="https://via.placeholder.com/60x60?text=IMG" width="55" style="border-radius:10px"/></td>
-    <td align="left">
+    <td width="15%"><img src="https://via.placeholder.com/60x60?text=IMG" width="55" style="border-radius:10px"/></td>
+    <td width="35%" align="left">
       <b>SataruZ</b><br/>
       <sub>MMORPG (BOT WA)</sub>
     </td>
   </tr>
   <tr>
-    <td width="60"><img src="https://via.placeholder.com/60x60?text=IMG" width="55" style="border-radius:10px"/></td>
-    <td align="left">
+    <td width="15%"><img src="https://via.placeholder.com/60x60?text=IMG" width="55" style="border-radius:10px"/></td>
+    <td width="35%" align="left">
       <b>NinjaSaga</b><br/>
       <sub>Private Server</sub>
     </td>
-  </tr>
-  <tr>
-    <td width="60"><img src="https://via.placeholder.com/60x60?text=IMG" width="55" style="border-radius:10px"/></td>
-    <td align="left">
+    <td width="15%"><img src="https://via.placeholder.com/60x60?text=IMG" width="55" style="border-radius:10px"/></td>
+    <td width="35%" align="left">
       <b>OSINTrix</b><br/>
       <sub>Osint (BOT TELE)</sub>
     </td>
